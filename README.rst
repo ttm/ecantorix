@@ -2,6 +2,14 @@
 eCantorix
 =========
 
+This is the fork the `music <https://github.com/ttm/music>`_ Python package
+sings with, through ``music.sing()``. Its ``music-N`` tags are the revisions
+that package pins, so every clone it makes is the same engine; the
+top-level ``Makefile`` is the one it runs. The fixes made here for newer Perl
+and for finding espeak's data are offered to the original,
+`divVerent/ecantorix <https://github.com/divVerent/ecantorix>`_, in
+`pull request 11 <https://github.com/divVerent/ecantorix/pull/11>`_.
+
 ::
 
        (*)       (*)
